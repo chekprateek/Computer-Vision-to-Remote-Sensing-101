@@ -1,6 +1,6 @@
 # Transitioning from Computer Vision to Remote Sensing
 
-This guide helps bridge the gap between **Computer Vision (CV)** and **Remote Sensing (RS)** by comparing key concepts and terminology. It maps CV knowledge to RS applications, highlighting equivalencies, differences, and nuances.
+I noticed that Remote Sensing (RS) Engineers refer to things a little differently which might be confusing for someone coming from Computer Vision (CV) background. This guide helps bridge the gap between CV and RS by comparing key concepts and terminology, mapping CV knowledge to RS applications, highlighting equivalencies, differences, and nuances.
 
 ## Computer Vision vs. Remote Sensing Terminology
 
