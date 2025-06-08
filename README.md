@@ -55,7 +55,7 @@ I noticed that Remote Sensing (RS) Engineers refer to things a little differentl
   - Integrates with Matplotlib for visualization.
 - **Example Use Case**: Overlay bounding boxes or segmentation masks from computer vision models onto geospatial maps.
 
-## 3. PyTorch or TensorFlow with TorchGeo
+## 3. TorchGeo
 - **Purpose**: Deep learning for remote sensing tasks.
 - **Why it’s useful**: If you’re familiar with PyTorch or TensorFlow for computer vision, TorchGeo extends these frameworks for geospatial data, providing datasets and models tailored for remote sensing.
 - **Key Features**:
